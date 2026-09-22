@@ -112,6 +112,5 @@ Este proyecto demuestra empíricamente el principio de la **Gravedad de los Dato
 
 **Sergio López Peña**  
 *Ingeniero de Software y Tecnologías para la Sociedad de la Información*  
-[🔗 LinkedIn](https://www.linkedin.com/in/tu-perfil) | [✉️ Email](mailto:tu-email@dominio.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/sergiolopez-p/) | [✉️ Email](mailto:sergiolopeez.p@gmail.com)
 
-Ingeniero orientado a la optimización de arquitecturas de datos masivas. Apasionado por resolver problemas complejos de infraestructura no solo desde la velocidad de ejecución, sino maximizando el impacto financiero (FinOps) y reduciendo la huella de carbono digital (GreenOps). Buscando retos en Data Engineering, Cloud Architecture y Backend a gran escala.
